@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Srinath G</h1>
 <h3 align="center">A passionate FullStack Developer from Tamilnadu,India</h3>
 
-- 🔭 I’m currently working on **Travel booking website**
+- 🔭 I’m currently working on **POS SAAS APPLICATION**
 
 - 🌱 I’m currently learning **FullStack Development**
 
 - 📝 I regularly write articles on [https://medium.com/@srinathguna](https://medium.com/@srinathguna)
 
-- 💬 Ask me about **HTML5, CSS3, JS, SASS, BOOTSTRAP**
+- 💬 Ask me about **HTML5, CSS3, JAVASCRIPT, SASS, BOOTSTRAP, ReactJS, Next.js, TailwindCSS, Magento**
 
 - 📫 How to reach me **hellosri7@gmail.com**
 
